@@ -1,0 +1,6 @@
+Suggested practice order:
+Week 1: 01_variables_types.py, 02_strings_input_casting.py, 03_lists_tuples_sets_dicts.py, 04_conditions.py, 05_loops_comprehensions.py
+Week 2: 01_functions_scope_lambda.py, 02_file_handling_exceptions.py, 03_classes_inheritance_polymorphism.py, 04_descriptive_statistics.py
+Week 3: 01_numpy_arrays.py, 02_numpy_edit_join_split.py, 03_probability_basics.py, 04_pandas_basics_cleaning.py
+Week 4: 01_merge_groupby_binning.py, 02_pandas_plots.py, 03_seaborn_plots.py, 04_simple_linear_regression.py
+Week 5: 01_multiple_linear_regression.py, 02_polynomial_regression.py, 03_logistic_regression_binary.py, 04_logistic_regression_multiclass.py, 05_gradient_descent_from_scratch.py
